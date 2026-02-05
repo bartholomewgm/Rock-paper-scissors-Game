@@ -1,7 +1,7 @@
 import random
 
 CHOICES = ["rock", "paper", "scissors"]
-SCORE_FILE = "scores.txt"
+SCORE_FILE = "scores.json"
 
 
 class ScoreBoard:
